@@ -1,1 +1,21 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PU_ID": "1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-123.2,49.2],
+          [-123.1,49.2],
+          [-123.1,49.3],
+          [-123.2,49.3],
+          [-123.2,49.2]
+        ]]
+      }
+    }
+  ]
+}
